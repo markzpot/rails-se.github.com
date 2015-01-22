@@ -394,6 +394,21 @@ Långt ifrån komplett! [Lägg gärna till](https://github.com/rails-se/rails-se
       </li>
     </ul>
   </li>
+  
+  <li>
+    <a href="http://www.statue.se">Statue</a>
+    <ul>
+      <li>
+        Tom Liljeholm
+        {% assign twitter = 'tomliljeholm' %}{% include twitter.html %}
+        {% assign github = 'markzpot' %}{% include github.html %}
+      </li>
+      <li>
+        Adam Bodérus
+        {% assign github = 'Perdurab0' %}{% include github.html %}
+      </li>
+    </ul>
+  </li>
 
   <li>
     <a href="http://www.tv4.se/">TV4</a>
